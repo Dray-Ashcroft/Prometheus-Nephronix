@@ -11,7 +11,7 @@ Explore the excretory system from the body down to a single nephron, and watch u
 </p>
 
 <p align="center">
-  <a href="https://prometheus-nephronix.pages.dev/"><strong>Explore the Simulation →</strong></a>
+  <a href="https://prometheus-nephronix.stark-kodex.workers.dev/"><strong>Explore the Simulator</strong></a>
 </p>
 
 ---
