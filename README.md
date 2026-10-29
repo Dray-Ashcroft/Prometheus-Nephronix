@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Prometheus Nephronix — Interactive Nephron Simulator" width="100%">
+  <img src="assets/screenshots/banner.png" alt="Prometheus Nephronix — Interactive Nephron Simulator" width="100%">
 </p>
 
 <h2 align="center">Prometheus Nephronix</h2>
