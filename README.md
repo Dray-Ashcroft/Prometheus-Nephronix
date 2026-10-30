@@ -11,7 +11,7 @@ Explore the excretory system from the body down to a single nephron, and watch u
 </p>
 
 <p align="center">
-  <a href="https://prometheus-nephronix.stark-kodex.workers.dev/"><strong>Explore the Simulator</strong></a>
+  <a href="https://prometheus-nephronix.stark-kodex.workers.dev/"><strong>Explore the Simulator →</strong></a>
 </p>
 
 ---
@@ -47,22 +47,31 @@ Understand how the kidneys filter blood, concentrate urine and regulate its form
 
 🔸 **Screenshots**
 
-**1. Excretory System**
+From the whole excretory system down to a single working nephron.
 
 <p align="center">
-  <img src="assets/screenshots/Excretory%20System.png" alt="3D excretory system" width="80%">
+  <img src="assets/screenshots/1-excretory-system.png" alt="Stage 1: human excretory system in male and female 3D models" width="45%">
+  &nbsp;
+  <img src="assets/screenshots/2-blood-supply.png" alt="Stage 3: kidney blood supply and urine drainage" width="45%">
+</p>
+<p align="center">
+  <sub><b>1. Excretory System</b> — kidneys, ureters, bladder and urethra in both sexes &nbsp;·&nbsp; <b>2. Blood Supply &amp; Drainage</b> — routes of blood and urine in the kidney</sub>
 </p>
 
-**2. Kidney L.S.**
-
 <p align="center">
-  <img src="assets/screenshots/Kidney%20LS.png" alt="Longitudinal section of the kidney" width="80%">
+  <img src="assets/screenshots/3-nephron.png" alt="Stage 4: 3D nephron with Bowman's capsule, tubules, loop of Henle and blood vessels" width="45%">
+  &nbsp;
+  <img src="assets/screenshots/4-reabsorption.png" alt="Magnified PCT cells with brush border showing selective reabsorption" width="45%">
+</p>
+<p align="center">
+  <sub><b>3. 3D Nephron</b> — capsule, tubules, loop of Henle and vessels &nbsp;·&nbsp; <b>4. Selective Reabsorption</b> — magnified PCT cells with brush border</sub>
 </p>
 
-**3. Nephron & Urine Formation**
-
 <p align="center">
-  <img src="assets/screenshots/Urine%20Formation.png" alt="Urine formation in the nephron" width="80%">
+  <img src="assets/screenshots/5-counter-current.png" alt="Counter-current mechanism with the medullary concentration gradient and ADH regulation" width="45%">
+</p>
+<p align="center">
+  <sub><b>5. Counter-Current &amp; ADH</b> — medullary gradient from 300 to 1200 mOsmol L⁻¹ and concentrated urine</sub>
 </p>
 
 ---
@@ -86,7 +95,3 @@ Understand how the kidneys filter blood, concentrate urine and regulate its form
 🔸 **License**
 
 Code: [MIT License](LICENSE). 3D models keep their own licences (above); the urinary tract model is non-commercial.
-
----
-
-<p align="center"><sub>Repository: GitHub &amp; Codeberg · Hosting: Cloudflare Pages</sub></p>
