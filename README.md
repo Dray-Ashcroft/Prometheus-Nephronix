@@ -2,11 +2,11 @@
   <img src="assets/screenshots/banner/banner.png" alt="Prometheus Nephronix — Interactive Nephron & Urine Simulator" width="100%">
 </p>
 
-<h1 align="center">🫘 Prometheus Nephronix</h1>
+<h1 align="center">Prometheus Nephronix</h1>
 
 <p align="center"><em>Interactive Nephron &amp; Urine Formation Simulator</em></p>
 
-<p align="center"><a href="https://prometheus-nephronix.stark-kodex.workers.dev/"><strong>Explore the Simulator →</strong></a></p>
+<p align="center"><a href="https://prometheus-nephronix.stark-kodex.workers.dev/"><strong>Explore the Anatomy</strong></a></p>
 
 <p align="center">
   <a href="#-about">About</a> ·
